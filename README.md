@@ -1,5 +1,5 @@
 # GS+ 
-
+# Latest compile on Intel: spacebar doesn't work.
 An Apple IIgs emulator based on KEGS
 
 # Build instructions
